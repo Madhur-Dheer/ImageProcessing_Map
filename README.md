@@ -6,5 +6,12 @@ It provides a user with a real time map of our country where the user can just t
 
 This system can be used for any kind of real-time state wise display applications.
 
+I have also attached a simple gif which shows how the project is intended to work.
 
-![]result.gif
+The values added a Random, it is not necessary to implement the display system with rainfall only based upon the requirement of the project the values can change.
+
+Libraries Required:-
+
+1. Pandas
+2. Numpy
+3. OpenCV
