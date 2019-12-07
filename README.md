@@ -1,4 +1,4 @@
-# ImageProcessing_Map
+# Map-Based-ImageProcessing
 
 It is a very simple application designed to show the rainfall distribution for different states with real-time tracking of it .
 
